@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ClickTester</string>
+    <string name="buttonString">Button</string>
+    <string name="shortclick">Short click:</string>
+    <string name="longclick">Long Click:</string>
+    <string name="redString">Top left block</string>
+    <string name="greenString">Top right block</string>
+    <string name="yellowString">Bottom left block</string>
+    <string name="blueString">Bottom right block</string>
+    <string name="white_label">White</string>
+    <string name="black_label">Black</string>
+    <string name="gray_label">Gray</string>
+    <string name="red_label">Red</string>
+    <string name="green_label">Green</string>
+    <string name="processMenu_title">Change Color</string>
+</resources>

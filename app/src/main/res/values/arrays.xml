@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="colornames">
+        <item>@string/white_label</item>
+        <item>@string/black_label</item>
+        <item>@string/gray_label</item>
+        <item>@string/red_label</item>
+        <item>@string/green_label</item>
+    </array>
+</resources>
